@@ -17,7 +17,7 @@
   <a href="https://github.com/DJFCoder?tab=repositories">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djfcoder&layout=compact&langs_count=7&theme=aura_dark"/>
   </a>
-  <a href="https://github.com/DJFCoder">
+  <a href="https://djfcoder.github.io/first-project/">
     <img alt="codando-no-pc-duas-telas" style="border-radius: 50px;" height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRjaDhtMWRtbm5mdzlneW1hODVnenZ2N2g1M2QxemFmdWV3bm0yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
   </a>
 </div>
