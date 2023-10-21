@@ -14,7 +14,7 @@
   <a href="https://github.com/DJFCoder">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=djfcoder&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/DJFCoder">
+  <a href="https://github.com/DJFCoder?tab=repositories">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djfcoder&layout=compact&langs_count=7&theme=aura_dark"/>
   </a>
   <a href="https://github.com/DJFCoder">
