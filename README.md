@@ -21,7 +21,11 @@
     <img alt="codando-no-pc-duas-telas" style="border-radius: 50px;" height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRjaDhtMWRtbm5mdzlneW1hODVnenZ2N2g1M2QxemFmdWV3bm0yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
   </a>
 </div>
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotHiaki/NotHiaki/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotHiaki/NotHiaki/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NotHiaki/NotHiaki/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+  </picture>
 <div style="display: inline_block"><br>
   <img align="center" alt="DJF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DJF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
