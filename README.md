@@ -1,11 +1,11 @@
 ### About me
 <div style="display: flex">
   <div align="left">
-  <p>Hey there! I’m Juan Fabian, 26 years old, currently living in Brazil. I am a self-taught software development student.</p>
+  <p>Hey there! I’m Juan Fabian, 26 years old, currently living in Brazil. I am a self-taught DevOps student.</p>
   
-  - 🖥️ Front-End Development Student
-  - 🔭 I'm looking for junior developer job
-  - 🌱 I’m currently learning JavaScript
+  - 🖥️ Sitems Development Student
+  - 🔭 I'm looking for junior DevOps | SRE job
+  - 🌱 I’m currently learning Infrainstructure
   - ⚡️ Fun fact: I'm Hardware Technician
   - 💌 Contact me: <a href="https://www.linkedin.com/in/juanfabianmarcal/">Linkedin</a>    
 </div>
