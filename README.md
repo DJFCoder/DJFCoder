@@ -4,7 +4,7 @@
   <p>Hey there! I’m Juan Fabian, 26 years old, currently living in Brazil. I am a self-taught DevOps student.</p>
   
   - 🖥️ Sitems Development Student
-  - 🔭 I'm looking for junior DevOps | SRE job
+  - 🔭 I'm focused in DevOps | SRE
   - 🌱 I’m currently learning Infrainstructure
   - ⚡️ Fun fact: I'm Hardware Technician
   - 💌 Contact me: <a href="https://www.linkedin.com/in/juanfabianmarcal/">Linkedin</a>    
