@@ -5,7 +5,7 @@
   
   - 🖥️ Sitems Development Student
   - 🔭 I'm focused in DevOps | SRE
-  - 🌱 I’m currently learning Infrainstructure
+  - 🌱 I’m currently learning BASH
   - ⚡️ Fun fact: I'm Hardware Technician
   - 💌 Contact me: <a href="https://www.linkedin.com/in/juanfabianmarcal/">Linkedin</a>    
 </div>
