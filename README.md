@@ -3,7 +3,7 @@
   <div align="left">
   <p>Hey there! I’m Juan Fabian, 26 years old, currently living in Brazil. I am a self-taught DevOps student.</p>
   
-  - 🖥️ Sitems Development Student
+  - 🖥️ Sitems Development Student at SENAC
   - 🔭 I'm focused in DevOps | SRE
   - 🌱 I’m currently learning JAVA / OOP
   - ⚡️ Fun fact: I'm Hardware Technician
