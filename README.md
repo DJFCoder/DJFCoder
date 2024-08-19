@@ -1,7 +1,7 @@
 ### About me
 <div style="display: flex">
   <div align="left">
-  <p>Hey there! I’m Juan Fabian, 27 years old, currently living in São Paulo - Brazil. I am specializing as a systems developer.</p>
+  <p>Hey there! I’m Juan Fabian Marçal, 27 years old, currently living in São Paulo - Brazil. I am specializing as a systems developer.</p>
   
   - 🖥️ Sytems Development Student at SENAC
   - 🔭 I'm focused in DevOps | SRE
