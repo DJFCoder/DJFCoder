@@ -30,7 +30,7 @@ public AboutMe {
        ⚡️ Fun fact: I'm hardware maintenance technician
        🔎 Looking for: System Development Job
 
-  }
+    }
 }
 ```
 
