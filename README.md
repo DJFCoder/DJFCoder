@@ -18,10 +18,11 @@ import java.skill.programComputer;
 public AboutMe {
     public String name = "Juan Fabian";
     private Integer age = 27;
-    private String focusOn = "Back-End";
+    private final String focusOn = "Back-End";
     
     public AboutMe() {}
-    
+
+    @Override
     public void showSomeAboutMe() {
  
        🖥️ Sytems Development Student at SENAC;
