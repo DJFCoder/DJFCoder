@@ -11,7 +11,7 @@
 </div>
 
 ```java
-package developer.JF;
+package com.developer.JF;
 
 import java.skill.programComputer;
 
@@ -24,11 +24,11 @@ public AboutMe {
     
     public void showSomeAboutMe() {
  
-       🖥️ Sytems Development Student at SENAC
-       🔭 I'm interested by DevOps | SRE
-       🌱 I’m currently learning JAVA / OOP
-       ⚡️ Fun fact: I'm hardware maintenance technician
-       🔎 Looking for: System Development Job
+       🖥️ Sytems Development Student at SENAC;
+       🔭 I'm interested by Back-end Development;
+       🌱 I’m currently learning Java Swing;
+       ⚡️ Fun fact: I'm hardware maintenance technician;
+       🔎 Looking for: System Development Job;
 
     }
 }
