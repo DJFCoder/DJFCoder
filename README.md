@@ -11,26 +11,29 @@
 </div>
 
 ```java
-package com.developer.JF;
+package com.developer.jf;
 
-import java.skill.programComputer;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
 
-public AboutMe {
-    public String name = "Juan Fabian";
-    private Integer age = 27;
-    private final String focusOn = "Back-End";
+@Getter
+@AllArgsConstructor
+public class AboutMe {
+    private final String name;
+    private final int age;
+    private final String focusOn;
     
-    public AboutMe() {}
-
-    @Override
     public void showSomeAboutMe() {
- 
-       🖥️ Sytems Development Student at SENAC;
-       🔭 I'm interested by Back-end Development;
-       🌱 I’m currently learning Java Swing;
-       ⚡️ Fun fact: I'm hardware maintenance technician;
-       🔎 Looking for: System Development Job;
+        System.out.println("🖥️ Systems Development Student at SENAC");
+        System.out.println("🔭 I'm interested in Back-end Development");
+        System.out.println("🌱 I’m currently learning Java Swing");
+        System.out.println("⚡ Fun fact: I'm a hardware maintenance technician");
+        System.out.println("🔎 Looking for: System Development Job");
+    }
 
+    public static void main(String[] args) {
+        AboutMe me = new AboutMe("Juan Fabian", 27, "Back-End");
+        me.showSomeAboutMe();
     }
 }
 ```
