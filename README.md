@@ -24,11 +24,14 @@ public class AboutMe {
     private final String focusOn;
     
     public void showSomeAboutMe() {
-        System.out.println("🖥️ Systems Development Student at SENAC");
-        System.out.println("🔭 I'm interested in Back-end Development");
-        System.out.println("🌱 I’m currently learning Java Swing");
-        System.out.println("⚡ Fun fact: I'm a hardware maintenance technician");
-        System.out.println("🔎 Looking for: System Development Job");
+        System.out.print("🖥️ Systems Development student at SENAC\n"
+                   + "🔭 Passionate about Back-end Development\n"
+                   + "🌱 Currently exploring Java frameworks and best practices\n"
+                   + "🛠️ Tech stack: Java, Swing, Spring Boot, Hibernate, MySQL\n"
+                   + "🎯 Focus: Clean Code, Design Patterns, and Software Architecture\n"
+                   + "⚡ Fun fact: I've been a hardware maintenance technician since I was 15\n"
+                   + "📚 Constantly improving my problem-solving skills\n"
+                   + "🔎 Actively seeking opportunities as a Java Developer");
     }
 
     public static void main(String[] args) {
