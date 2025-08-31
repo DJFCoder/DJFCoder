@@ -24,7 +24,8 @@ public class AboutMe {
     private final String focusOn;
     
     public void showSomeAboutMe() {
-        System.out.print("🖥️ Systems Development student at SENAC\n"
+        System.out.print("🖥️ Finishing: Technical Systems Development at SENAC in October\n"
+                   + "🎓 Starting: Bachelor's in Software Engineering at Cruzeiro do Sul\n"
                    + "🔭 Passionate about Back-end Development\n"
                    + "🌱 Currently exploring Java frameworks and best practices\n"
                    + "🛠️ Tech stack: Java, Swing, Spring Boot, Hibernate, MySQL\n"
