@@ -35,7 +35,7 @@ public class AboutMe {
     }
 
     public static void main(String[] args) {
-        AboutMe me = new AboutMe("Juan Fabian", 27, "Back-End");
+        AboutMe me = new AboutMe("Juan Fabian", 28, "Back-End");
         me.showSomeAboutMe();
     }
 }
