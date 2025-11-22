@@ -6,7 +6,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/MONGODB-green">
   <img alt="Static Badge" src="https://img.shields.io/badge/DOCKER-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/JS-yellow">
-  <img alt="Static Badge" src="https://img.shields.io/badge/GO-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/REACT-blue">
   
 </div>
 
@@ -14,9 +14,7 @@
 package com.developer.jf;
 
 import lombok.AllArgsConstructor;
-import lombok.Getter;
 
-@Getter
 @AllArgsConstructor
 public class AboutMe {
     private final String name;
@@ -24,11 +22,10 @@ public class AboutMe {
     private final String focusOn;
     
     public void showSomeAboutMe() {
-        System.out.print("🖥️ Finishing: Technical Systems Development at SENAC in October\n"
-                   + "🎓 Starting: Bachelor's in Software Engineering at Cruzeiro do Sul\n"
+        System.out.print("🎓 Graduate: Technical Systems Development at SENAC\n"
+                   + "🎓 Currently: Bachelor's in Software Engineering at Cruzeiro do Sul\n"
                    + "🔭 Passionate about Back-end Development\n"
-                   + "🌱 Currently exploring Java frameworks and best practices\n"
-                   + "🛠️ Tech stack: Java, Swing, Spring Boot, Hibernate, MySQL\n"
+                   + "🛠️ Tech stack: Java, Spring Boot, Hibernate, MySQL, MongoDB, Docker, React, Vue\n"
                    + "🎯 Focus: Clean Code, Design Patterns, and Software Architecture\n"
                    + "⚡ Fun fact: I've been a hardware maintenance technician since I was 15\n"
                    + "📚 Constantly improving my problem-solving skills\n"
