@@ -29,7 +29,7 @@ public class AboutMe {
                    + "🎯 Focus: Clean Code, Design Patterns, and Software Architecture\n"
                    + "⚡ Fun fact: I've been a hardware maintenance technician since I was 15\n"
                    + "📚 Constantly improving my problem-solving skills\n"
-                   + "🔎 Actively seeking opportunities as a Java Developer");
+                   + "🔎 Actively working at a full-stack project");
     }
 
     public static void main(String[] args) {
