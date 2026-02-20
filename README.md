@@ -42,8 +42,8 @@ public class AboutMe {
 ```
 
 <div align="center">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJFCoder&theme=github_dark"/>
   <img width="65%" src="https://github-readme-stats-two-indol-60.vercel.app/api?username=DJFCoder&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=algolia&hide_border=true" alt="GitHub Stats"/>
-  <img height="172em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJFCoder&theme=github_dark"/>
 </div>
 
 <div align="right">
