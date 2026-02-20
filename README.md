@@ -26,7 +26,7 @@ public class AboutMe {
         System.out.print("🎓 Graduate: Technical Systems Development at SENAC\n"
                    + "🎓 Currently: Bachelor's in Software Engineering at Cruzeiro do Sul\n"
                    + "🔭 Passionate about Back-end Development\n"
-                   + "🛠️ Tech stack: Java, Spring Boot, Hibernate, MySQL, MongoDB, Docker, React, Vue\n"
+                   + "🛠️ Tech stack: Java, Spring Boot, Hibernate, MySQL, MongoDB, Docker, React, Vue, Javascript, Python, Django, PostgresSQL\n"
                    + "🎯 Focus: Clean Code, Design Patterns, and Software Architecture\n"
                    + "⚡ Fun fact: I've been a hardware maintenance technician since I was 15\n"
                    + "📚 Constantly improving my problem-solving skills\n"
