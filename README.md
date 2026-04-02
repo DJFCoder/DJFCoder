@@ -1,4 +1,4 @@
-## Me
+<img style="width: 100%;" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=3000&pause=200&color=F7F7F7&center=true&vCenter=true&random=true&width=470&lines=Juan+Fabian+Mar%C3%A7al;%40devjf;DJFCoder">
 
 <div>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
@@ -10,6 +10,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
 </div>
+
+---
 
 ```java
 package com.developer.jf;
@@ -40,12 +42,21 @@ public class AboutMe {
     }
 }
 ```
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats-two-indol-60.vercel.app/api?username=DJFCoder&show=prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-  <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DJFCoder&theme=github_dark&utcOffset=-3" alt="GitHub Stats"/>
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJFCoder&theme=github_dark"/>
+
+| ![Stats](https://github-readme-stats-two-indol-60.vercel.app/api?username=DJFCoder&show=prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=github_dark&hide_border=true) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DJFCoder&theme=github_dark) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DJFCoder&theme=github_dark) |
+|:-:|:-:|:-:|
+
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJFCoder&theme=github_dark) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DJFCoder&theme=github_dark&utcOffset=-3) |
+|:-:|:-:|
+
 </div>
+
+---
 
 <div align="right">
   <img align="center" alt="DJF-Java" display="flex" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">  
