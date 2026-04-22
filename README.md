@@ -44,9 +44,9 @@ public class AboutMe {
 ```
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
+  
+  # 📊 GitHub Stats
 
 | ![Stats](https://github-readme-stats-two-indol-60.vercel.app/api?username=DJFCoder&show=prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=github_dark&hide_border=true) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DJFCoder&theme=github_dark) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DJFCoder&theme=github_dark) |
 |:-:|:-:|:-:|
@@ -58,12 +58,20 @@ public class AboutMe {
 
 ---
 
-<div align="right">
-  <img align="center" alt="DJF-Java" display="flex" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">  
-  <img align="center" alt="DJF-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="DJF-MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">  
-  <img align="center" alt="DJF-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img align="center" alt="DJF-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="DJF-Javascript" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="DJF-Postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
+<div align="center">
+  
+  # 🛠️ Core stack
+  
+  <table>
+    <tr>
+      <td><img alt="DJF-Java" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></td>
+      <td><img alt="DJF-MySQL" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></td>
+      <td><img alt="DJF-MongoDB" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"></td>
+      <td><img alt="DJF-Docker" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"></td>
+      <td><img alt="DJF-Python" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></td>
+      <td><img alt="DJF-Javascript" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></td>
+      <td><img alt="DJF-Postgres" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"></td>
+    </tr>
+  </table>
 </div>
+
