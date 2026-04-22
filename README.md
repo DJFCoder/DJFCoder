@@ -1,16 +1,5 @@
 <img style="width: 100%;" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=3000&pause=200&color=F7F7F7&center=true&vCenter=true&random=true&width=470&lines=Juan+Fabian+Mar%C3%A7al;%40devjf;DJFCoder">
 
-<div>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
-</div>
-
 ---
 
 ```java
@@ -70,7 +59,10 @@ public class AboutMe {
       <td><img alt="DJF-Docker" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"></td>
       <td><img alt="DJF-Python" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></td>
       <td><img alt="DJF-Javascript" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></td>
+      <td><img alt="DJF-React" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></td>
       <td><img alt="DJF-Postgres" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"></td>
+      <td><img alt="DJF-DynamoDB" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg"></td>
+      <td><img alt="DJF-awsWebServices" height="50" width="50" style="display: block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></td>
     </tr>
   </table>
 </div>
