@@ -10,8 +10,8 @@ import lombok.AllArgsConstructor;
 @AllArgsConstructor
 public class AboutMe {
     private final String name;
-    private final int age;
-    private final String focusOn;
+    private int age;
+    private String focusOn;
     
     public void showSomeAboutMe() {
         System.out.print("🎓 Graduate: Technical Systems Development at SENAC\n"
@@ -26,7 +26,7 @@ public class AboutMe {
     }
 
     public static void main(String[] args) {
-        AboutMe me = new AboutMe("Juan Fabian", 28, "Back-End");
+        AboutMe me = new AboutMe("Juan Fabian", 29, "Back-End");
         me.showSomeAboutMe();
     }
 }
