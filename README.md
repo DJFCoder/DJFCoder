@@ -67,3 +67,13 @@ public class AboutMe {
   </table>
 </div>
 
+---
+
+<div align="center">
+    <table>
+        <tr>
+            <td><img height=450 width=550 src="https://wakatime.com/share/@devjf/d968901e-40e4-4ce1-9266-b347c0eb6345.svg"></td>
+            <td><img height=450 width=550 src="https://wakatime.com/share/@devjf/57b0c27d-f86d-4a0d-9ab5-247ab2b73e82.svg"></td>
+        </tr>
+    </table>
+</div>
